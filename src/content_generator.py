@@ -50,8 +50,6 @@ class ContentGenerator:
         # Figures clés
         lines.append("## Points clés")
         for figure in section["key_figures"]:
-            # BUG: utilise l'opérateur 'in' au lieu de l'accès par clé
-            # Ce qui provoque une erreur quand 'fans' vaut None
             if "fans" in figure and figure["fans"] is not None:
                 lines.append(
                     f"- **{figure['name']}** (depuis {figure['debut']}) — fans: {figure['fans']}"
@@ -91,5 +89,4 @@ class ContentGenerator:
                 f"Section '{section_name}' introuvable. "
                 f"Sections disponibles: {', '.join(self.list_sections())}"
             )
-        # BUG: retourne la longueur de la chaîne au lieu de la liste
-        return len(str(section_name))
+        return len(self.data[section_name]["facts"])
