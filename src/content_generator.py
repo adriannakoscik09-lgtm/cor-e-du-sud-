@@ -91,5 +91,4 @@ class ContentGenerator:
                 f"Section '{section_name}' introuvable. "
                 f"Sections disponibles: {', '.join(self.list_sections())}"
             )
-        # BUG: retourne la longueur de la chaîne au lieu de la liste
-        return len(str(section_name))
+        return len(self.data[section_name]["facts"])
