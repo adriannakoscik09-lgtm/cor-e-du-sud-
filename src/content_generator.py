@@ -54,8 +54,10 @@ class ContentGenerator:
                 lines.append(
                     f"- **{figure['name']}** (depuis {figure['debut']}) — fans: {figure['fans']}"
                 )
-            else:
+            elif figure.get("debut"):
                 lines.append(f"- **{figure['name']}** (depuis {figure['debut']})")
+            else:
+                lines.append(f"- **{figure['name']}**")
         lines.append("")
 
         # Faits intéressants
