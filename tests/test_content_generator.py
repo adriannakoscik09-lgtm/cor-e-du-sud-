@@ -59,6 +59,21 @@ class TestGenerateSection:
         assert "Hanbok" in content
         assert "fans:" not in content
 
+    def test_food_section_does_not_show_debut_zero(self, generator):
+        """Les figures avec debut=0 ne doivent pas afficher '(depuis 0)'.
+        Afficher 'depuis 0' n'a pas de sens pour des éléments
+        dont l'origine est ancienne ou inconnue."""
+        content = generator.generate_section("food")
+        assert "Kimchi" in content
+        assert "(depuis 0)" not in content
+
+    def test_tradition_section_does_not_show_debut_zero(self, generator):
+        """Les figures traditionnelles avec debut=0 ne doivent
+        pas afficher '(depuis 0)'."""
+        content = generator.generate_section("tradition")
+        assert "Calligraphie" in content
+        assert "(depuis 0)" not in content
+
     def test_invalid_section_raises_error(self, generator):
         with pytest.raises(ValueError, match="introuvable"):
             generator.generate_section("invalid_section")
