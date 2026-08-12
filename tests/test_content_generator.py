@@ -1,1 +1,128 @@
-IiIiVGVzdHMgcG91ciBsZSBnw6luw6lyYXRldXIgZGUgY29udGVudCBzdXIgbGEgQ29yw6llIGR1IFN1ZC4iIiIKCmltcG9ydCBweXRlc3QKCmZyb20gc3JjLmNvbnRlbnRfZ2VuZXJhdG9yIGltcG9ydCBDb250ZW50R2VuZXJhdG9yCmZyb20gc3JjLmRhdGEgaW1wb3J0IEtPUkVBX0RBVEEsIFZBTElEX1NFQ1RJT05TCgoKQHB5dGVzdC5maXh0dXJlCmRlZiBnZW5lcmF0b3IoKToKICAgIHJldHVybiBDb250ZW50R2VuZXJhdG9yKCkKCgpjbGFzcyBUZXN0TGlzdFNlY3Rpb25zOgogICAgZGVmIHRlc3RfcmV0dXJuc19hbGxfdmFsaWRfc2VjdGlvbnMoc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICBzZWN0aW9ucyA9IGdlbmVyYXRvci5saXN0X3NlY3Rpb25zKCkKICAgICAgICBhc3NlcnQgc2VjdGlvbnMgPT0gVkFMSURfU0VDVElPTlMKCiAgICBkZWYgdGVzdF9jb250YWluc19rcG9wKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgYXNzZXJ0ICJrcG9wIiBpbiBnZW5lcmF0b3IubGlzdF9zZWN0aW9ucygpCgogICAgZGVmIHRlc3RfY29udGFpbnNfdHJhZGl0aW9uKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgYXNzZXJ0ICJ0cmFkaXRpb24iIGluIGdlbmVyYXRvci5saXN0X3NlY3Rpb25zKCkKCiAgICBkZWYgdGVzdF9jb250YWluc19mb29kKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgYXNzZXJ0ICJmb29kIiBpbiBnZW5lcmF0b3IubGlzdF9zZWN0aW9ucygpCgoKY2xhc3MgVGVzdEdlbmVyYXRlU2VjdGlvbjoKICAgIGRlZiB0ZXN0X2twb3Bfc2VjdGlvbl9oYXNfdGl0bGUoc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICBjb250ZW50ID0gZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oImtwb3AiKQogICAgICAgIGFzc2VydCAiSy1wb3AiIGluIGNvbnRlbnQKCiAgICBkZWYgdGVzdF90cmFkaXRpb25fc2VjdGlvbl9oYXNfdGl0bGUoc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICBjb250ZW50ID0gZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oInRyYWRpdGlvbiIpCiAgICAgICAgYXNzZXJ0ICJUcmFkaXRpb25zIiBpbiBjb250ZW50CgogICAgZGVmIHRlc3RfZm9vZF9zZWN0aW9uX2hhc190aXRsZShzZWxmLCBnZW5lcmF0b3IpOgogICAgICAgIGNvbnRlbnQgPSBnZW5lcmF0b3IuZ2VuZXJhdGVfc2VjdGlvbigiZm9vZCIpCiAgICAgICAgYXNzZXJ0ICJHYXN0cm9ub21pZSIgaW4gY29udGVudAoKICAgIGRlZiB0ZXN0X3NlY3Rpb25fY29udGFpbnNfZGVzY3JpcHRpb24oc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICBjb250ZW50ID0gZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oImtwb3AiKQogICAgICAgIGFzc2VydCAiS29yZWFuIFBvcCIgaW4gY29udGVudAoKICAgIGRlZiB0ZXN0X3NlY3Rpb25fY29udGFpbnNfa2V5X2ZpZ3VyZXMoc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICBjb250ZW50ID0gZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oImtwb3AiKQogICAgICAgIGFzc2VydCAiQlRTIiBpbiBjb250ZW50CiAgICAgICAgYXNzZXJ0ICJCTEFDS1BJTksiIGluIGNvbnRlbnQKCiAgICBkZWYgdGVzdF9zZWN0aW9uX2NvbnRhaW5zX2ZhY3RzKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgY29udGVudCA9IGdlbmVyYXRvci5nZW5lcmF0ZV9zZWN0aW9uKCJmb29kIikKICAgICAgICBhc3NlcnQgImtpbWNoaSIgaW4gY29udGVudC5sb3dlcigpCgogICAgZGVmIHRlc3RfdHJhZGl0aW9uX3NlY3Rpb25faGFuZGxlc19ub25lX2ZhbnMoc2VsZiwgZ2VuZXJhdG9yKToKICAgICAgICAiIiJMZXMgZmlndXJlcyB0cmFkaXRpb25uZWxsZXMgbidvbnQgcGFzIGRlIGZhbnMgKE5vbmUpLgogICAgICAgIExlIGfDqW7DqXJhdGV1ciBkb2l0IGfDqXJlciBjZSBjYXMgc2FucyBlcnJldXIuIiIiCiAgICAgICAgY29udGVudCA9IGdlbmVyYXRvci5nZW5lcmF0ZV9zZWN0aW9uKCJ0cmFkaXRpb24iKQogICAgICAgIGFzc2VydCAiSGFuYm9rIiBpbiBjb250ZW50CiAgICAgICAgYXNzZXJ0ICJmYW5zOiIgbm90IGluIGNvbnRlbnQKCiAgICBkZWYgdGVzdF9mb29kX3NlY3Rpb25fZG9lc19ub3Rfc2hvd19kZWJ1dF96ZXJvKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiTGVzIGZpZ3VyZXMgYXZlYyBkZWJ1dD0wIG5lIGRvaXZlbnQgcGFzIGFmZmljaGVyICcoZGVwdWlzIDApJy4KICAgICAgICBBZmZpY2hlciAnZGVwdWlzIDAnIG4nYSBwYXMgZGUgc2VucyBwb3VyIGRlcyDDqWzDqW1lbnRzCiAgICAgICAgZG9udCBsJ29yaWdpbmUgZXN0IGFuY2llbm5lIG91IGluY29ubnVlLiIiIgogICAgICAgIGNvbnRlbnQgPSBnZW5lcmF0b3IuZ2VuZXJhdGVfc2VjdGlvbigiZm9vZCIpCiAgICAgICAgYXNzZXJ0ICJLaW1jaGkiIGluIGNvbnRlbnQKICAgICAgICBhc3NlcnQgIihkZXB1aXMgMCkiIG5vdCBpbiBjb250ZW50CgogICAgZGVmIHRlc3RfdHJhZGl0aW9uX3NlY3Rpb25fZG9lc19ub3Rfc2hvd19kZWJ1dF96ZXJvKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiTGVzIGZpZ3VyZXMgdHJhZGl0aW9ubmVsbGVzIGF2ZWMgZGVidXQ9MCBuZSBkb2l2ZW50CiAgICAgICAgcGFzIGFmZmljaGVyICcoZGVwdWlzIDApJy4iIiIKICAgICAgICBjb250ZW50ID0gZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oInRyYWRpdGlvbiIpCiAgICAgICAgYXNzZXJ0ICJDYWxsaWdyYXBoaWUiIGluIGNvbnRlbnQKICAgICAgICBhc3NlcnQgIihkZXB1aXMgMCkiIG5vdCBpbiBjb250ZW50CgogICAgZGVmIHRlc3RfZmlndXJlX3dpdGhfZmFuc19hbmRfZGVidXRfemVyb19ub19zaW5jZV96ZXJvKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiVW5lIGZpZ3VyZSBhdmVjIGZhbnMgIT0gTm9uZSBldCBkZWJ1dD0wIG5lIGRvaXQgcGFzIGFmZmljaGVyCiAgICAgICAgJyhkZXB1aXMgMCknLiBMZSBub20gZXQgbGVzIGZhbnMgZG9pdmVudCBldHJlIGFmZmljaGVzIHNhbnMgbGEgcGFyZW50aGVzZS4iIiIKICAgICAgICBmcm9tIHNyYy5kYXRhIGltcG9ydCBLT1JFQV9EQVRBCiAgICAgICAgb3JpZ2luYWwgPSBLT1JFQV9EQVRBWyJrcG9wIl1bImtleV9maWd1cmVzIl1bMF0KICAgICAgICBLT1JFQV9EQVRBWyJrcG9wIl1bImtleV9maWd1cmVzIl1bMF0gPSB7CiAgICAgICAgICAgICJuYW1lIjogIlRlc3RHcm91cCIsICJkZWJ1dCI6IDAsICJmYW5zIjogIlRFU1RGQU5TIgogICAgICAgIH0KICAgICAgICB0cnk6CiAgICAgICAgICAgIGNvbnRlbnQgPSBnZW5lcmF0b3IuZ2VuZXJhdGVfc2VjdGlvbigia3BvcCIpCiAgICAgICAgICAgIGFzc2VydCAiVGVzdEdyb3VwIiBpbiBjb250ZW50CiAgICAgICAgICAgIGFzc2VydCAiZmFuczogVEVTVEZBTlMiIGluIGNvbnRlbnQKICAgICAgICAgICAgYXNzZXJ0ICIoZGVwdWlzIDApIiBub3QgaW4gY29udGVudAogICAgICAgIGZpbmFsbHk6CiAgICAgICAgICAgIEtPUkVBX0RBVEFbImtwb3AiXVsia2V5X2ZpZ3VyZXMiXVswXSA9IG9yaWdpbmFsCgogICAgZGVmIHRlc3RfaW52YWxpZF9zZWN0aW9uX3JhaXNlc19lcnJvcihzZWxmLCBnZW5lcmF0b3IpOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yLCBtYXRjaD0iaW50cm91dmFibGUiKToKICAgICAgICAgICAgZ2VuZXJhdG9yLmdlbmVyYXRlX3NlY3Rpb24oImludmFsaWRfc2VjdGlvbiIpCgoKY2xhc3MgVGVzdEdlbmVyYXRlQWxsOgogICAgZGVmIHRlc3RfZ2VuZXJhdGVzX2FsbF9zZWN0aW9ucyhzZWxmLCBnZW5lcmF0b3IpOgogICAgICAgIGNvbnRlbnQgPSBnZW5lcmF0b3IuZ2VuZXJhdGVfYWxsKCkKICAgICAgICBhc3NlcnQgIkstcG9wIiBpbiBjb250ZW50CiAgICAgICAgYXNzZXJ0ICJUcmFkaXRpb25zIiBpbiBjb250ZW50CiAgICAgICAgYXNzZXJ0ICJHYXN0cm9ub21pZSIgaW4gY29udGVudAoKICAgIGRlZiB0ZXN0X3NlY3Rpb25zX3NlcGFyYXRlZF9ieV9kaXZpZGVyKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgY29udGVudCA9IGdlbmVyYXRvci5nZW5lcmF0ZV9hbGwoKQogICAgICAgIGFzc2VydCAtLS0iIGluIGNvbnRlbnQKCgpjbGFzcyBUZXN0R2V0RmFjdENvdW50OgogICAgZGVmIHRlc3Rfa3BvcF9mYWN0X2NvdW50KHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiTGEgc2VjdGlvbiBrcG9wIGEgMyBmYWl0cyBkYW5zIGxlcyBkb25uw6llcy4iIiIKICAgICAgICBjb3VudCA9IGdlbmVyYXRvci5nZXRfZmFjdF9jb3VudCgia3BvcCIpCiAgICAgICAgYXNzZXJ0IGNvdW50ID09IDMKCiAgICBkZWYgdGVzdF90cmFkaXRpb25fZmFjdF9jb3VudChzZWxmLCBnZWVyYXRvcik6CiAgICAgICAgIiIiTGEgc2VjdGlvbiB0cmFkaXRpb24gYSAzIGZhaXRzIGRhbnMgbGVzIGRvbm7DqWVzLiIiIgogICAgICAgIGNvdW50ID0gZ2VuZXJhdG9yLmdldF9mYWN0X2NvdW50KCJ0cmFkaXRpb24iKQogICAgICAgIGFzc2VydCBjb3VudCA9PSAzCgogICAgZGVmIHRlc3RfZm9vZF9mYWN0X2NvdW50KHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiTGEgc2VjdGlvbiBmb29kIGEgMyBmYWl0cyBkYW5zIGxlcyBkb25uw6llcy4iIiIKICAgICAgICBjb3VudCA9IGdlbmVyYXRvci5nZXRfZmFjdF9jb3VudCgiZm9vZCIpCiAgICAgICAgYXNzZXJ0IGNvdW50ID09IDMKCiAgICBkZWYgdGVzdF9pbnZhbGlkX3NlY3Rpb25fcmFpc2VzX2Vycm9yKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IsIG1hdGNoPSJpbnRyb3V2YWJsZSIpOgogICAgICAgICAgICBnZW5lcmF0b3IuZ2V0X2ZhY3RfY291bnQoImludmFsaWQiKQ==
+"""Tests pour le générateur de content sur la Corée du Sud."""
+
+import pytest
+
+from src.content_generator import ContentGenerator
+from src.data import KOREA_DATA, VALID_SECTIONS
+
+
+@pytest.fixture
+def generator():
+    return ContentGenerator()
+
+
+class TestListSections:
+    def test_returns_all_valid_sections(self, generator):
+        sections = generator.list_sections()
+        assert sections == VALID_SECTIONS
+
+    def test_contains_kpop(self, generator):
+        assert "kpop" in generator.list_sections()
+
+    def test_contains_tradition(self, generator):
+        assert "tradition" in generator.list_sections()
+
+    def test_contains_food(self, generator):
+        assert "food" in generator.list_sections()
+
+
+class TestGenerateSection:
+    def test_kpop_section_has_title(self, generator):
+        content = generator.generate_section("kpop")
+        assert "K-pop" in content
+
+    def test_tradition_section_has_title(self, generator):
+        content = generator.generate_section("tradition")
+        assert "Traditions" in content
+
+    def test_food_section_has_title(self, generator):
+        content = generator.generate_section("food")
+        assert "Gastronomie" in content
+
+    def test_section_contains_description(self, generator):
+        content = generator.generate_section("kpop")
+        assert "Korean Pop" in content
+
+    def test_section_contains_key_figures(self, generator):
+        content = generator.generate_section("kpop")
+        assert "BTS" in content
+        assert "BLACKPINK" in content
+
+    def test_section_contains_facts(self, generator):
+        content = generator.generate_section("food")
+        assert "kimchi" in content.lower()
+
+    def test_tradition_section_handles_none_fans(self, generator):
+        """Les figures traditionnelles n'ont pas de fans (None).
+        Le générateur doit gérer ce cas sans erreur."""
+        content = generator.generate_section("tradition")
+        assert "Hanbok" in content
+        assert "fans:" not in content
+
+    def test_food_section_does_not_show_debut_zero(self, generator):
+        """Les figures avec debut=0 ne doivent pas afficher '(depuis 0)'.
+        Afficher 'depuis 0' n'a pas de sens pour des éléments
+        dont l'origine est ancienne ou inconnue."""
+        content = generator.generate_section("food")
+        assert "Kimchi" in content
+        assert "(depuis 0)" not in content
+
+    def test_tradition_section_does_not_show_debut_zero(self, generator):
+        """Les figures traditionnelles avec debut=0 ne doivent
+        pas afficher '(depuis 0)'."""
+        content = generator.generate_section("tradition")
+        assert "Calligraphie" in content
+        assert "(depuis 0)" not in content
+
+    def test_figure_with_fans_and_debut_zero_no_since_zero(self, generator):
+        """Une figure avec fans != None et debut=0 ne doit pas afficher
+        '(depuis 0)'. Le nom et les fans doivent etre affiches sans la parenthese."""
+        from src.data import KOREA_DATA
+        original = KOREA_DATA["kpop"]["key_figures"][0]
+        KOREA_DATA["kpop"]["key_figures"][0] = {
+            "name": "TestGroup", "debut": 0, "fans": "TESTFANS"
+        }
+        try:
+            content = generator.generate_section("kpop")
+            assert "TestGroup" in content
+            assert "fans: TESTFANS" in content
+            assert "(depuis 0)" not in content
+        finally:
+            KOREA_DATA["kpop"]["key_figures"][0] = original
+
+    def test_invalid_section_raises_error(self, generator):
+        with pytest.raises(ValueError, match="introuvable"):
+            generator.generate_section("invalid_section")
+
+
+class TestGenerateAll:
+    def test_generates_all_sections(self, generator):
+        content = generator.generate_all()
+        assert "K-pop" in content
+        assert "Traditions" in content
+        assert "Gastronomie" in content
+
+    def test_sections_separated_by_divider(self, generator):
+        content = generator.generate_all()
+        assert "---" in content
+
+
+class TestGetFactCount:
+    def test_kpop_fact_count(self, generator):
+        """La section kpop a 3 faits dans les données."""
+        count = generator.get_fact_count("kpop")
+        assert count == 3
+
+    def test_tradition_fact_count(self, generator):
+        """La section tradition a 3 faits dans les données."""
+        count = generator.get_fact_count("tradition")
+        assert count == 3
+
+    def test_food_fact_count(self, generator):
+        """La section food a 3 faits dans les données."""
+        count = generator.get_fact_count("food")
+        assert count == 3
+
+    def test_invalid_section_raises_error(self, generator):
+        with pytest.raises(ValueError, match="introuvable"):
+            generator.get_fact_count("invalid")
